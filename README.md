@@ -1,6 +1,8 @@
 ﻿# ProdigitBot
+ 
+*Prenota con un click le classi dell'università!*
 
-**FAQ**
+**HOW TO PLAY**
 
 1. Selenium è richiesto per funzionare:
 
@@ -10,6 +12,6 @@
 
 3. Assicurarsi che le credenziali siano corrette all'interno di data/credenziali.csv
 
-4. Le Aule vanno specificate in classes.csv
+4. Le Aule vanno specificate in data/classes.csv
 
 5. Di Default le aule sono impostate per il corso di Ingnegneria Informatica e Automatica II anno
